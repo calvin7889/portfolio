@@ -1,5 +1,10 @@
 {
     "about": "My name is Calvin Cheng. I'm a Torontonian born and raised, and U of T alumni. I graduated in July of 2023 with high distinction from The University of Toronto where I received a B.S. in Computer Science in the Software Engineering Stream. I am currently looking for a full time position as a software developer.\n\n I enjoy coffee that has more sugar than caffeine, bouldering, working out, and everything that gets my blood pumping. I am on the lookout for my next adventure. So if you have any (budget friendly) travel suggestions or any hidden gem food recommendations please let me know. :)",
-    "imageSource": "images/about/about1.png"
+    "imageSource": [
+        "images/about/about1.png",
+        "images/about/about2.png",
+        "images/about/about3.png",
+        "images/about/about4.png"
+    ]
     
 }
