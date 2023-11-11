@@ -1,149 +1,70 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/portfolio-poster.png",
-            "title": "Dev Portfolio",
-            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "image" : "images/projects/noisy-ninjas-poster.png",
+            "title": "Noisy Ninjas",
+            "bodyText": "- A 2D multiplayer game that revolves around the strategic manipulation of sound made in **React**\n -  Players are thrust into a 3 vs 1 scenario, assuming the roles of nimble ninjas or the formidable boss.\n - In this game, ninjas must rely on sound cues to navigate through a dark arena, while the boss possesses a unique talent for detecting sounds. The ultimate objective of the game is for the ninjas to collaborate effectively to take down the boss before the boss can single out and defeat each ninja, one by one.\n- **OAuth** Support \n - Proximity Chat Support \n - Deployed using **Cloud Amazon Gamelift**",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                    "href": "https://github.com/calvin7889/Noisy-Ninjas"
                 },
                 {
-                    "text": "Live",
-                    "href": "https://mayankagarwal.me"
+                    "text": "Demo Video",
+                    "href": "https://www.youtube.com/watch?v=7ErIkUZ4tl0"
                 }
             ],
             "tags" : [
                 "React",
-                "Portfolio",
-                "JavaScript"
+                "MongoDB",
+                "JavaScript",
+                "Express",
+                "Game",
+                "Cloud Amazon Gamelift",
+                "Figma"
             ]
         },
         {
-            "image" : "images/projects/caaring-poster.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "image" : "images/projects/petsprout-poster.png",
+            "title": "PetSprout -  Habit Formation App",
+            "bodyText": "- A Habit Development mobile app made using **React Native** for **UofT** students where all features were deeply researched and vetted by a team of psychology students. \n - Sponsored and endorsed by UofT psychology faculty head **Steve Joordens**. \n - As **frontend lead** I mentored my junior colleagues (5+ members), nurturing an environment of collaboration code and refinement through code reviews and pair programming.\n - Focused on the theme of gamification through a unique pet system with diverse evolution trees. \n - Deployed on the **App store** and **google play store** to a class of 150+ students who provided feedback over a 4 month period.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
+                    "href": "https://github.com/calvin7889/PetSprout"
                 },
                 {
-                    "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "text": "Figma Demo",
+                    "href": "https://www.figma.com/proto/PtaRUxowEgnMwjr1zsfdTx/PetSprout?node-id=1540-1502&starting-point-node-id=1540%3A1502"
                 }
             ],
             "tags" : [
-                "Python",
+                "React Native",
+                "UofT",
+                "Gamification",
+                "MongoDB",
+                "Frontend Lead",
+                "Express",
+                "XCode"
+            ]
+        },
+        {
+            "image" : "images/projects/find-dining-scarborough-poster.png",
+            "title": "Find Dining Scarborough",
+            "bodyText": "- Find Dining Scarborough was a website that was designed to showcase local restaurants and also share their unique stories while providing everything a typical food order app does. \n - Made in conjunction with UofT's community accelerator, **The Bridge**.\n - Awarded The **Best Project by The City of Toronto** amongst our class of 50 in 2020. \n - Implemented personalized restaurant pages, a map pinpointing nearby dining options, robust search/filter functionality, and a user-driven ratings system.\n - Deployed using **AWS** and **Docker** enabling us to containerize and deploy our application with ease",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/calvin7889/Find-Dining-Scarborough"
+                }
+            ],
+            "tags" : [
                 "Django",
-                "BootStrap",
-                "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
-            ]
-        },
-        {
-            "image" : "images/projects/quiet-hours-poster.jpg",
-            "title": "Quiet Hours App",
-            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
-                }
-            ],
-            "tags" : [
-                "Java",
-                "Android",
-                "Alarm Manager",
-                "VIT"
-            ]
-        },
-        {
-            "title": "Secure Chat App",
-            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/SecureChatApp"
-                }
-            ],
-            "tags" : [
-                "Java",
-                "Android",
-                "Firebase",
-                "RSA"
-            ]
-        },
-        {
-            "title": "MVVM Sample App",
-            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
-                }
-            ],
-            "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Room",
-                "Coroutines",
-                "Flow",
-                "Hilt-Dagger",
-                "NetworkBoundResource"
-            ]
-        },
-        {
-            "title": "Feed List App",
-            "bodyText": "- An Android App that loads list of feeds from a **paginated** API and shows in a RecyclerView.\n - Uses the **MVVM** architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Paginated-App-Feeds-List"
-                }
-            ],
-            "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Paging 3",
-                "Coroutines",
-                "Flow"
-            ]
-        },
-        {
-            "title": "Task Tracker",
-            "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
-                }
-            ],
-            "tags" : [
-                "TypeScript",
-                "Angular 12",
-                "JavaScript"
-            ]
-        },
-        {
-            "title": "Image Encryption/Decryption",
-            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
-                }
-            ],
-            "tags" : [
-                "Python",
-                "Django",
-                "SDES",
-                "Cryptography"
+                "MongoDB",
+                "Angular",
+                "The Bridge",
+                "AWS",
+                "Docker"
             ]
         }
     ]
