@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/calvin-cheng-2677b3171/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/calvin7889"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:calvincheng2000@gmail.com"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "experiences": [
+        {
+            "title": "University Student",
+            "subtitle": "University of Toronto",
+            "workType": "Graduated",
+            "workDescription": [
+                "Graduated with B.S. with a specialization in Computer Science.",
+                "CGPA of **3.55** (High Distinction) in Software Engineering Stream"
+            ],
+            "dateText": "09/2018 – 07/2023"
+        },
+        {
+            "title": "Software Development Intern",
+            "subtitle": "OMERS",
+            "workType": "Internship",
+            "workDescription": [
+                "Created a **Django** application to provide a non-SQL-savvy traders to access previously uncharted data, boosting trading efficiency by **10%**.",
+                "The interface offered a wide array of filter options and the ability to visualize data through various graphical representations."
+            ],
+            "dateText": "01/2020 – 04/2020"
+        },
+        {
+            "title": "Software Development Intern",
+            "subtitle": "Pickeasy Inc",
+            "workType": "Internship",
+            "workDescription": [
+                "Leveraged **Google Data Studio** and **Firebase** to collect and visualize statistics on customer retention and feature usage.",
+                "Developed Instagram story clone using **React Native** increasing our user acquisition by **50%**.",
+                "Designed and Implemented a version history system for a customer-facing website builder periodically saving user changes and enabling customers to revert to previous versions.",
+                "Developed an admin tool using **Celery** to schedule and send specialized notifications resulting in a **35%** increase in retention."
+            ],
+            "dateText": "01/2021 – 04/2021"
+        },
+        {
+            "title": "Software Development Intern",
+            "subtitle": "Verto Health",
+            "workType": "Internship",
+            "workDescription": [
+                "Created internal tools using **Angular** allowing for the import and configuring of live data into test environments, resulting in **15%** increase in data debugging efficiency.",
+                "Designed work flow using **Figma** for a vaccination scheduling page.",
+                "Automated rescheduling and tracking functionality of vaccination booking to save client's 100s of hours."
+            ],
+            "dateText": "09/2021 – 12/2021"
+        },
+        {
+            "title": "Software Developer I",
+            "subtitle": "Tophat Monocle Corp",
+            "workType": "Internship",
+            "workDescription": [
+                "Created authoring system using **React** akin to github’s change logs that allowed educators to manage changes to their online courses.",
+                "Found and fixed a critical bug using **Datadog** and **Fullstory**, that caused discrepancies in displayed content for 500+ unpublished courses caused by previous updates."
+            ],
+            "dateText": "01/2022 – 04/2022"
+        }
+    ]
+}
